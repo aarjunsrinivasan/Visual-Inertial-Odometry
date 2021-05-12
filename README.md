@@ -27,5 +27,5 @@ myvom - which uses our own implementation of functions to solve.
 pathimage="/home/arjun/Desktop/VOM/Oxford_dataset/stereo/centre/"
 pathmodel="/home/arjun/Desktop/VOM/Oxford_dataset/model/".
 
-For working video : 
+For working video follow this link: 
 https://youtu.be/ZFXpE-CA9As
